@@ -1,0 +1,5 @@
+﻿  laba2.cpp
+C:\Users\pepel\source\repos\laba2\laba2\laba2.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\pepel\source\repos\laba2\laba2\laba2.cpp(18,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\pepel\source\repos\laba2\laba2\laba2.cpp(21,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  laba2.vcxproj -> C:\Users\pepel\source\repos\laba2\x64\Debug\laba2.exe
